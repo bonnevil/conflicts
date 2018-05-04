@@ -1,0 +1,12 @@
+= README
+
+Test repo for illustrating merge conflict management.
+
+[NOTE]
+==== 
+This document has been written using http://asciidoctor.org[AsciiDoc] markup.
+A quick reference sheet is available at http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+GitHub will automatically render AsciiDoc files that end in `.adoc`, `.asciidoc`, or `.asc`.  For more
+information, see https://github.com/github/markup.
+====
