@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd" [
+<!ENTITY % common_entities SYSTEM "common.ent">
+%common_entities;
+]>
+
+<section id="rbd-rbd-blockdev-practice">
+  <title>Guided Exercise: Managing RADOS Block Devices</title>
+  
+  <para>
+    In this exercise you will configure your 3-node cluster to
+    provide a RADOS block device, and have a Ceph client use that 
+    RBD from a fourth machine.
+  </para>
+
+  <para>
+    <emphasis>...output omitted...</emphasis>
+  </para>
+
+</section>
+
