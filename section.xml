@@ -8,7 +8,7 @@
   <title>Guided Exercise: Managing RADOS Block Devices</title>
   
   <para>
-    In this exercise you will configure your thereunto cluster to
+    In this exercise you will configure your three-node cluster to
     provide a RADOS block device, and have a Ceph client use that 
     RBD from a fourth machine.
   </para>
